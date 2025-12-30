@@ -1,0 +1,39 @@
+# OAuth credentials and tokens
+**/token.json
+credentials.json
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+*.so
+*.egg
+*.egg-info/
+**/dist/
+**/build/
+
+# Virtual environments
+**/venv/
+**/env/
+**/.venv/
+**/.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Environment variables
+**/.env.local
+**/.env.*.local
+
+# MCP specific
+**/mcp-*.log
