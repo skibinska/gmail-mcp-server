@@ -108,7 +108,7 @@ Restart Claude Desktop.
 ### Create draft email - Claude
 
 <img width="450" height="315" src="https://github.com/user-attachments/assets/c7335ec9-4558-4f96-b491-5b51479c2f8d" />
-<img width="500" height="203" src="https://github.com/user-attachments/assets/73a8f063-31da-4ead-b3d3-ac1f776241ac" />
+<img width="851" height="380" alt="" src="https://github.com/user-attachments/assets/b3f75261-4a7e-4cea-8846-46b46be20c87" />
 
 ### Draft email - Gmail
 
