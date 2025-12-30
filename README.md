@@ -104,7 +104,7 @@ In Claude Desktop:
 ### Get unread emails - Claude
 
 <img width="500" height="280" alt="" src="https://github.com/user-attachments/assets/25120b4b-6ebe-48d9-bed8-c7a6d7773df5" />
-<img width="500" height="326" alt="" src="https://github.com/user-attachments/assets/cbc5c994-3e16-426c-ade8-d4232dc5b266" />
+<img width="893" height="720" alt="Screenshot 2025-12-30 at 13 06 43" src="https://github.com/user-attachments/assets/930b15c3-4689-4147-a25e-c06a1bf1f1e0" />
 
 
 ### Unread emails - Gmail
@@ -115,7 +115,8 @@ In Claude Desktop:
 ### Create draft email - Claude
 
 <img width="450" height="315" alt="" src="https://github.com/user-attachments/assets/c7335ec9-4558-4f96-b491-5b51479c2f8d" />
-<img width="450" height="380" alt="" src="https://github.com/user-attachments/assets/a062bfcb-4260-4857-8a18-9204fe6e91f8" />
+<img width="800" height="326" alt="" src="https://github.com/user-attachments/assets/73a8f063-31da-4ead-b3d3-ac1f776241ac" />
+
 
 
 ### Draft email - Gmail
