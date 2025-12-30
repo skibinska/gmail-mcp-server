@@ -98,3 +98,26 @@ In Claude Desktop:
 
 - **Authentication fails**: Delete `token.json` and run `python server.py` again
 - **Claude can't connect**: Check the absolute path in config file
+
+## Examples
+
+### Get unread emails - Claude
+
+<img width="800" height="326" alt="" src="https://github.com/user-attachments/assets/99621814-8d2f-416e-9a1c-1ce94bb56ef2" />
+<img width="952" height="534" alt="" src="https://github.com/user-attachments/assets/25120b4b-6ebe-48d9-bed8-c7a6d7773df5" />
+
+### Unread emails - Gmail
+
+![1000014875](https://github.com/user-attachments/assets/3e41587f-6337-4a10-b4df-1e6d6db8c770)
+
+
+
+### Create draft email - Claude
+
+<img width="862" height="602" alt="" src="https://github.com/user-attachments/assets/c7335ec9-4558-4f96-b491-5b51479c2f8d" />
+<img width="911" height="596" alt="" src="https://github.com/user-attachments/assets/48db4ddb-7312-406a-816f-3ea54e3ec359" />
+
+### Draft email - Gmail
+
+![1000014877](https://github.com/user-attachments/assets/a1a8027b-0533-409d-b639-ea59bba2f8dc)
+
